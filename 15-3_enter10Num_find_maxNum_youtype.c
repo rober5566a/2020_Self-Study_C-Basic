@@ -33,4 +33,5 @@ int main()
         }
         printf("The max number in Search number is %d\n", max_num);
     }
+    return 0;
 }
