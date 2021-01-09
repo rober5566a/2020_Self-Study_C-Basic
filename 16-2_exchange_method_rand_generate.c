@@ -13,7 +13,8 @@ int sub_main()
         nums[i] = i;
     }
 
-    int num_position, num_tansfor;
+    int num_position,
+        num_tansfor;
     for (i = 0; i < 10; ++i)
     {
         // setting target position from 0 to 9,
